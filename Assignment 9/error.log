@@ -1,0 +1,4 @@
+--- Logged at 2025-09-26 15:46:02 ---
+Line 3 | Error: Invalid Email Format | Data: Chirag,invalid-email@,2001-10-05
+Line 5 | Error: Missing or extra fields (Expected 3) | Data: Elena,,1998-04-10
+Line 6 | Error: Missing or extra fields (Expected 3) | Data: Fahim,fahim@web.net
