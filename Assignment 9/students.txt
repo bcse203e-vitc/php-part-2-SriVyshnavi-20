@@ -1,0 +1,6 @@
+Anita,anita123@gmail.com,2000-06-15
+Bharat,bharat.k@site.co.in,1999-01-20
+Chirag,invalid-email@,2001-10-05
+Divya,divya@example.com,2002-12-01
+Elena,,1998-04-10
+Fahim,fahim@web.net
